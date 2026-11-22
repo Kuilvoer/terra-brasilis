@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist-v2/
+dist-v3/
+exports_pdf/
+src-v2-backup/
+.env
+.env.local
+*.log
+.DS_Store
